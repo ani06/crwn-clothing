@@ -4,7 +4,7 @@ const HomePage = () => (
     <div className = "HomePage">
         <div className = "directory-menu">
             <div className = "menu-item">
-                <div className = 'content'>
+                <div className = 'content'> 
                     <h1 className='title'> HATS</h1>
                     <span classNmae ='subtitle'>SHOP NOW </span>
                 </div>
